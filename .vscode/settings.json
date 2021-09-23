@@ -1,0 +1,14 @@
+{
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+      },
+    "emmet.preferences": {
+    
+    },
+    "emmet.syntaxProfiles": {
+    
+    },
+    "html.format.contentUnformatted": "",
+ 
+  
+}
